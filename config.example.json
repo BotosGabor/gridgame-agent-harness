@@ -1,0 +1,6 @@
+{
+  "SERVER": "https://<the game site's address>",
+  "AGENT_KEY": "<your team's agent key>",
+  "PLAYER": "",
+  "MODEL": ""
+}
